@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Marilynne Tepper - About Me</title>
+    <img src="https://scontent.ftpa1-1.fna.fbcdn.net/v/t39.30808-6/470484486_18473814310041792_3165108789354632236_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XRRTQhEhqgMQ7kNvgElA4q4&_nc_oc=AdgHFI1j3aoCJe_0yG1Yep_x2fuLyxxxol8_TurUXwA_b3M1oxRFMm8OGzhyVrSYBF2jC2huTIrD-2MMrNcxUJbo&_nc_zt=23&_nc_ht=scontent.ftpa1-1.fna&_nc_gid=AmgvswuzcK2U99eMt-DB6Av&oh=00_AYGMZpfOJ7z7cwmzssp8M5D3YrtWLjluSFRE4I7U14P1jw&oe=67D7998D" width="400" height="300">
+</head>
+<body>
+    <h1>Marilynne Tepper</h1>
+    <p> A little about me, I was born in South Carolina but call Florida my home! I'm a wife and a mom. I have a dog and two cats and currently live in Georgia while my husband is serving in the US Navy. In my free time, I enjoy reading, watching reality tv, playing video games and baking sourdough bread! I enjoy cooking for my family and have recently gained an interest in gardening. My dream would be to live on a homestead with bees, goats, chickens and a beautiful garden full of fruits, vegetables and flowers. 
+    </p>
+    <ul>
+        <li> I graduated from Seminole State College in Orlando, FL with an Associates of Arts degree.</li>
+        <li> I graduated from Paul Mitchell Hair School of Charleston and have my Master Cosmetologist certificate. </li>
+        <li> I'm currently doing the most rewarding job in the world: being a stay-at-home mom to my 2 year old. We decided this is the most important thing while my husband is active duty.</li>
+        <li> I decided to pursue an interest that can afford me the ability to stay home with my daughter but also make me feel fulfilled in a career. This is how I started software development. </li>
+    </ul>
+</body>
+</html>
